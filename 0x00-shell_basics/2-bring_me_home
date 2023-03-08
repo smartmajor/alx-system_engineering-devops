@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd /2-bring_me_home
+=======
+cd /home
+>>>>>>> a27d632da78f767d06b37041350bc81c63a08683
