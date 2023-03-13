@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la | rt -d f *.js
